@@ -1,6 +1,6 @@
 # Live Deployed App
 
-Link: []()
+Link: [https://contentwise-challenge.vercel.app/](https://contentwise-challenge.vercel.app/)
 
 **NB**: I will probably take it down in the following days
 
